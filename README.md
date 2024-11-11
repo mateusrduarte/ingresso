@@ -1,6 +1,6 @@
 
 
-<h1>Sortedor de números</h1>
+<h1>Ingresso</h1>
 
 <h2>🔖 Sobre</h2>
 <p>Projeto simples de lógica de programação. Um sistema básico de controle para venda de ingressos.</p>
